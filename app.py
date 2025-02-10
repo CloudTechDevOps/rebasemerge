@@ -51,5 +51,5 @@ def write_time_series():
 # Send data every 60 seconds
 while True:
     write_time_series()
-    time.sleep(60)
+    time.sleep(40)
 
