@@ -52,4 +52,3 @@ def write_time_series():
 while True:
     write_time_series()
     time.sleep(100)
-
