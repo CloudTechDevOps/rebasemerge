@@ -1,6 +1,6 @@
 from google.cloud import monitoring_v3
 import time
-import psutil
+import boto3
 
 # Set up your GCP project details
 PROJECT_ID = "your-gcp-project-id"
