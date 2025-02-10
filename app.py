@@ -1,6 +1,6 @@
 from google.cloud import monitoring_v3
 import time
-import boto2
+import boto100
 
 # Set up your GCP project details
 PROJECT_ID = "your-gcp-project-id"
